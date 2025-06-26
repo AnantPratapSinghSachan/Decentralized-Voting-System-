@@ -23,5 +23,4 @@ Our vision is to empower democratic decision-making in organizations, communitie
 ## Contract Details
 0x5eA5A53b90AAd92759afAa9C944005284c7456be
 ![image](https://github.com/user-attachments/assets/accf2a3b-7b6d-417a-9a97-cc878137c592)
-![image](https://github.com/user-attachments/assets/accf2a3b-7b6d-417a-9a97-cc878137c592)
 
